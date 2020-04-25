@@ -1,0 +1,62 @@
+body{
+
+	background-color: lightblue;
+
+}
+
+
+
+h1.hlo{
+
+	color: crimson;
+
+	font-family:sans-serif;
+
+	background-color: yellow;
+
+	font-weight: bolder;
+
+	text-align: center;
+
+}
+
+
+
+p.vj{
+
+	color: purple;
+
+	font-weight: bold;
+
+	background-color: orange;
+
+	font-family: sans-serif;
+
+	text-align: center;
+
+	font-size:300%;
+
+
+}
+p{
+
+
+
+	color: purple;
+
+	font-weight: bold;
+
+	background-color: orange;
+
+	font-family: sans-serif;
+
+	text-align: center;
+
+	font-size:300%;
+
+	
+
+
+
+
+}

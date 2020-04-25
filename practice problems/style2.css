@@ -1,0 +1,27 @@
+
+body{
+
+
+	background-image: url("images/background.jpg");
+	background-repeat: no-repeat;
+	background-color: transparent;
+	background-position: top;
+}
+
+
+
+
+
+
+
+p{
+
+	
+
+
+			border-style: double;
+			margin: 200px
+			padding: 100px 50px 20px 35px;
+
+		
+}

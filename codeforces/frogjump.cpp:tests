@@ -1,0 +1,26 @@
+[
+	{
+		"test": "6\nLRLRRLL\nL\nLLR\nRRRR\nLLLLLL\nR\n"
+	},
+	{
+		"test": "LLLRR\n"
+	},
+	{
+		"test": "1\nLLLRR\n"
+	},
+	{
+		"test": "1\nLLRRLLLRRRLRR\n"
+	},
+	{
+		"test": "1\nRRRR\n"
+	},
+	{
+		"test": "LLRRRLLLLRRRLLLLLLLLRRLLL\n"
+	},
+	{
+		"test": "1\nLLRRRLLLLRRRLLLLLLLLRRLLL\n"
+	},
+	{
+		"test": "rrrr\n"
+	}
+]

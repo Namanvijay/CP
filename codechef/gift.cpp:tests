@@ -1,0 +1,20 @@
+[
+	{
+		"test": "3\n5\nLLLUR\n7\nLLLRUUD\n8\nLRULLUDU\n"
+	},
+	{
+		"test": "3\n4\nLLLL\n4\nLLRR\n4\nLLUD\n"
+	},
+	{
+		"test": "2\n6\nLRLRLR\n6\nLRUDLR\n"
+	},
+	{
+		"test": "1\nlru\n"
+	},
+	{
+		"test": "1\nL\n"
+	},
+	{
+		"test": "1\n6\nLRUDLR\n"
+	}
+]

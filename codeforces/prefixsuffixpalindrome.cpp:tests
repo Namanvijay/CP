@@ -1,0 +1,23 @@
+[
+	{
+		"test": "5\na\nabcdfdcecba\nabbaxyzyx\ncodeforces\nacbba\n\n\n\n\n\n\n"
+	},
+	{
+		"test": "1\nabcdfdcecba\n"
+	},
+	{
+		"test": "1\nabbaxyzyx\n"
+	},
+	{
+		"test": "1\ncodeforces\n"
+	},
+	{
+		"test": "5\na\nabcdfdcecba\nabbaxyzyx\ncodeforces\nacbba\n"
+	},
+	{
+		"test": "10\nu\nxqpczgnzazxyrvx\ncfjgfhxmzqmjgzzjthziuomldylspyfuxvjlgdc\nooydbldio\nyvaamavy\nrzjjebcgotjffuzr\nhtfkwvihzuwxczopzqujdnaorgxibjfcmlzntskawxhyoymwynitukttewfpajuph\nfactnjajntcaf\nywowyovhrgradhtrqkgurkjpudnrrqhmmwiaqicfxnoyejdsmmurusdzqgjjntocryhqsgr\nqq\n"
+	},
+	{
+		"test": "2\naaaa\naaaaaaaaaaaaaaa\n"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"test": "1\na\n"
+	},
+	{
+		"test": "a\nzzaaz\nccff\ncbddbb"
+	},
+	{
+		"test": "Copy\n\n4\na\nzzaaz\nccff\ncbddbb\n"
+	},
+	{
+		"test": "4\na\nzzaaz\nccff\ncbddbb\n"
+	}
+]

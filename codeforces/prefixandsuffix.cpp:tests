@@ -1,0 +1,11 @@
+[
+	{
+		"test": "5\nba\na\nabab\na\naba\nbaba\nab\naba\n"
+	},
+	{
+		"test": "3\na\naa\naa\na\n"
+	},
+	{
+		"test": "2\na\nc\n"
+	}
+]

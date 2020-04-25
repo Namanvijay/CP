@@ -1,0 +1,11 @@
+[
+	{
+		"test": "4\nRRGB\n\n"
+	},
+	{
+		"test": "39\nRBRBGRBGGBBRRGBBRRRBGGBRBGBRBGBRBBBGBBB\n\n\n\n\n"
+	},
+	{
+		"test": "2\nRG\n"
+	}
+]

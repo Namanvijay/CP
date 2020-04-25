@@ -1,0 +1,11 @@
+[
+	{
+		"test": "4\nLRLR\n"
+	},
+	{
+		"test": "7\nLLLLLRR\n"
+	},
+	{
+		"test": "7\nLRLRLLL\n"
+	}
+]
